@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T18:17:59.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VNyPY0nXBO1huC5hDvz-" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T18:36:22.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="i3vZDX2Oi0BhDkoSg5fg" version="22.1.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2261" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -296,10 +296,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i0sruy30-tRyDu9INdyp-3" value="Общие вопросы:&lt;br&gt;1) Название ресторана, концепция.&lt;br&gt;(Общая информация о клиенте)&lt;br&gt;2) Какие ожидания от iiko?&lt;br&gt;(Понимать больные места &lt;br&gt;и на чем сделать акценты)&lt;br&gt;3) Какая на текущий момент (предполагаемая)&lt;br&gt;модель работы с гостями?&lt;br&gt;(Начинаем узнавать бизнес-процессы в компании)&lt;br&gt;4) Был ли опыт работы с другими системами?&lt;br&gt;(Более точно выяснить потребности и не облажаться&lt;br&gt;там где облажались другие))&lt;br&gt;5) Какой бюджет на запуск?&lt;br&gt;(Сразу понимать где начать экономить или&amp;nbsp;&lt;br&gt;наоборот развернуться)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-25" y="-110" width="330" height="230" as="geometry" />
+          <mxGeometry x="-5" y="-110" width="330" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="i0sruy30-tRyDu9INdyp-4" value="Вопросы о структуре компании:&lt;br&gt;1) Есть ли филиалы и какое количество?&lt;br&gt;(Что будем запускать рмс/чейн)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-25" y="120" width="260" height="60" as="geometry" />
+        <mxCell id="i0sruy30-tRyDu9INdyp-4" value="Вопросы о структуре компании:&lt;br&gt;1) Есть ли филиалы и какое количество?&lt;br&gt;(Что будем запускать рмс/чейн)&lt;br&gt;2) Продается ли алкоголь в заведении?&lt;br&gt;Где ведется ЕГАИС? &lt;br&gt;Нужно ли обучение по работе с ЕГАИС?" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-10" y="120" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="i0sruy30-tRyDu9INdyp-6" value="Если чейн:&lt;br&gt;1) Какая структура сетки?&lt;br&gt;2) Как происходят процессы управления запасами&lt;br&gt;и контроля товаров в рамках всей сети?&lt;br&gt;3) Какая отчетность и аналитика важна?&lt;br&gt;(Здесь по большей части выясняем как будет организована&amp;nbsp;&lt;br&gt;структура, какие можно решения предложить для аналитики&lt;br&gt;продаж (dashboard etc.), первичная оценка сложности запуска)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="610" y="120" width="390" height="130" as="geometry" />
@@ -322,8 +322,29 @@
             <mxPoint x="820" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="i0sruy30-tRyDu9INdyp-13" value="1) Есть ли доставка в организации? Как построен процесс заказа?&lt;br&gt;(Слишком обширная тема)&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="690" width="170" height="30" as="geometry" />
+        <mxCell id="i0sruy30-tRyDu9INdyp-13" value="1) Есть ли доставка в организации? Как построен процесс заказа?&lt;br&gt;(Супер обширная тема, тут можно развернуться и на каждый процесс от заказа предлагать решения от сайта до контроля за курьерами)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="740" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0sruy30-tRyDu9INdyp-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-3" y="1210" as="sourcePoint" />
+            <mxPoint x="827" y="1210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0sruy30-tRyDu9INdyp-15" value="1) Планируются ли какие-либо программы лояльности в организации?&lt;br&gt;(Нужен ли кард, внедрять что-то сторонее, мб UDS)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="995" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0sruy30-tRyDu9INdyp-16" value="1) Есть ли опыт работы с iiko у персонала?&lt;br&gt;2) Есть ли человек в организации с опытом работы с iiko?&lt;br&gt;3) Требуется ли обучение?&lt;br&gt;(Выясняем нужно ли сотрудникам обучение, и насколько глубоко оно нужно - только офики и бармены или предлагать обучать еще бухгалтерию и выше)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1380" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i0sruy30-tRyDu9INdyp-17" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="1530" as="sourcePoint" />
+            <mxPoint x="820" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i0sruy30-tRyDu9INdyp-19" value="1) Из предыдущих вопросов уже есть понимание как устроены процесс готовки и продажи. Тут уточняем по оснащению мест продаж и готовки: сколько фр, нужны ли планшеты и так далее. Предлагаем решения в зависимости от бюджета." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry y="1570" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
